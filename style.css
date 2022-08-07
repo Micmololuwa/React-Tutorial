@@ -44,6 +44,9 @@ nav {
 .wrapper{
     padding: 20px;
     color: white;
+    background-image: url("./images/reactjs-icon 2.png");
+    background-repeat: no-repeat;
+    background-position: right;
 }
 
 .wrapper > .header{
@@ -58,4 +61,5 @@ nav {
 .wrapper > .list::marker{
     font-size: #61DAFB;
     font-size: 1.4rem;
+    /* background-image: ; */
 }
