@@ -10,7 +10,6 @@ export default function Profile() {
                 <h4 className="designation">Frontend Developer</h4>
                 <p className="mail">laurasmith.website</p>
             </div>
-            
 
         </div>
     )
